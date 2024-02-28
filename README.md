@@ -1,6 +1,6 @@
-# L-BSL, Refined L-BSL Implementation
+# LBSL-BF and Refined LBSL-BF Implementation
 
-L-BSL과 Refined L-BSL을 C++ 코드로 구현해보았습니다.
+LBSL-BF와 Refined LBSL-BF을 C++ 코드로 구현해보았습니다.
 
 ----
 참고한 논문
